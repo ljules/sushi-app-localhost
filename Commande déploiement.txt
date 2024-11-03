@@ -1,0 +1,1 @@
+ng deploy --base-href="https://ljules.github.io/suhi-app-localhost/"
